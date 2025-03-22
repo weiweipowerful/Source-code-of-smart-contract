@@ -8,7 +8,6 @@ contract/
 ├── source_address.txt            
 ├── README.md                    
 
-
 Data Description
 1.address.txt - records all acquired contract addresses. Each address corresponds to a folder to store its contract source code.
 2.source_address.txt - records the contract address of the successfully crawled source code, which is convenient for filtering valid data.
