@@ -1,3 +1,13 @@
+Data Format
+contract/
+├── part1/ ~ part7/               
+│   ├── 0x0000....4321.sol         
+│   ├── 0x6A1B....feBf.sol
+│   └── ...
+├── address.txt                   
+├── source_address.txt            
+├── README.md                    
+
 
 Data Description
 1.address.txt - records all acquired contract addresses. Each address corresponds to a folder to store its contract source code.
